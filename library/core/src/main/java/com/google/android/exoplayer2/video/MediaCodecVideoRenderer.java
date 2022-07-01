@@ -1736,38 +1736,59 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "1601":
         case "1713":
         case "1714":
+        case "1AZ2P_eea":
+        case "1AZ2T":
         case "601LV":
         case "602LV":
+        case "a02q":
+        case "a10":
         case "A10-70F":
         case "A10-70L":
         case "A1601":
         case "A2016a40":
+        case "a20e":
+        case "a20s":
+        case "a30s":
+        case "a5ulte":
+        case "a6lte":
+        case "a6plte":
         case "A7000-a":
         case "A7000plus":
         case "A7010a48":
         case "A7020a48":
+        case "a9y18qlte":
+        case "acer_jetfirelte":
+        case "apollo":
         case "AquaPowerM":
         case "ASUS_X00AD_2":
+        case "ASUS_X00R_2":
         case "Aura_Note_2":
         case "b5":
         case "BLACK-1X":
         case "BRAVIA_ATV2":
         case "BRAVIA_ATV3_4K":
         case "C1":
+        case "chagalllte":
         case "ComioS1":
         case "CP8676_I02":
         case "CPH1609":
         case "CPH1715":
         case "CPY83_I00":
+        case "Crystal":
         case "cv1":
+        case "cv109":
         case "cv3":
+        case "daisy_sprout":
         case "deb":
         case "DM-01K":
         case "E5643":
+        case "elink8735b_6tb_m":
+        case "eliteltechn":
         case "ELUGA_A3_Pro":
         case "ELUGA_Note":
         case "ELUGA_Prim":
         case "ELUGA_Ray_X":
+        case "etab_LTE":
         case "EverStar_S":
         case "F01H":
         case "F01J":
@@ -1794,10 +1815,40 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "GIONEE_WBL7365":
         case "GIONEE_WBL7519":
         case "griffin":
+        case "gt510lte":
+        case "gta2swifi":
+        case "gta2xllte":
+        case "gta2xlwifi":
+        case "gta4l":
+        case "gta4lwifi":
+        case "gtanotexlwifikx":
+        case "gtaxllte":
+        case "gtaxlwifi":
+        case "gto":
+        case "gts210velte":
         case "htc_e56ml_dtul":
+        case "HWAGR":
+        case "HWAGS2":
+        case "HWAGS3":
         case "hwALE-H":
+        case "HWAUM-Q":
+        case "HWBAH2":
+        case "HWBLA":
         case "HWBLN-H":
         case "HWCAM-H":
+        case "HWCLT":
+        case "HWCMR":
+        case "HWCMR09":
+        case "HWCOL":
+        case "hwG7-L01":
+        case "HWHRY-H":
+        case "HWHRY-HF":
+        case "HWJSN-H":
+        case "HWLDN-Q":
+        case "HWMAR":
+        case "HWPOT-H":
+        case "HWSNE":
+        case "HWSTK-HF":
         case "HWVNS-H":
         case "HWWAS-H":
         case "i9031":
@@ -1806,26 +1857,63 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "iris60":
         case "itel_S41":
         case "j2xlteins":
+        case "j2y18lte":
+        case "j4primelte":
+        case "J5":
+        case "j5xnlte":
+        case "j5y17lte":
+        case "J6":
+        case "J606F":
+        case "j6lte":
+        case "j6primelte":
+        case "j7xelte":
+        case "j7y17lte":
+        case "Jakarta":
+        case "Jakarta_Lite":
         case "JGZ":
+        case "joyeuse":
+        case "K108":
+        case "K116_EEA":
         case "K50a40":
         case "kate":
         case "l5460":
         case "le_x6":
         case "LS-5017":
+        case "M-SP10HXxH":
         case "M04":
+        case "m11q":
+        case "M40_EEA":
         case "M5c":
+        case "M5s":
+        case "M7":
+        case "M7Pro":
+        case "M863-EEA":
         case "manning":
         case "marino_f":
         case "MEIZU_M5":
+        case "Metal":
         case "mh":
         case "mido":
+        case "mt8127":
         case "MX6":
+        case "N10-EEA":
         case "namath":
         case "nicklaus_f":
+        case "nicklaus_fn":
         case "NX541J":
         case "NX573J":
+        case "onc":
         case "OnePlus5T":
+        case "OP4C72L1":
+        case "oxygen":
+        case "P101-EEA":
+        case "P20_EEA":
+        case "P20HD_EEA":
         case "p212":
+        case "P40-EEA":
+        case "P63":
+        case "P6601AE":
+        case "P6609BC":
         case "P681":
         case "P85":
         case "pacificrim":
@@ -1838,11 +1926,13 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "PGN610":
         case "PGN611":
         case "Phantom6":
+        case "PicassoTab":
         case "Pixi4-7_3G":
         case "Pixi5-10_4G":
         case "PLE":
         case "PRO7S":
         case "Q350":
+        case "Q3pro_eea":
         case "Q4260":
         case "Q427":
         case "Q4310":
@@ -1850,10 +1940,21 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "QM16XE_U":
         case "QX1":
         case "RAIJIN":
+        case "raphael":
         case "santoni":
         case "Slate_Pro":
+        case "Smart55":
+        case "SmartPad":
+        case "SmartPad_MX_series":
+        case "SmartPadPro":
         case "SVP-DTV15":
         case "s905x018":
+        case "T5":
+        case "T5_EEA":
+        case "T5-plus-EEA":
+        case "TAB_912_4G":
+        case "Tab8":
+        case "Tab8_NEU":
         case "taido_row":
         case "TB3-730F":
         case "TB3-730X":
@@ -1862,13 +1963,16 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "tcl_eu":
         case "V1":
         case "V23GB":
+        case "v3971":
         case "V5":
         case "vernee_M5":
+        case "VFD1400":
         case "watson":
         case "whyred":
         case "woods_f":
         case "woods_fn":
         case "X3_HK":
+        case "X304L":
         case "XE2X":
         case "XT1663":
         case "Z12_PRO":
