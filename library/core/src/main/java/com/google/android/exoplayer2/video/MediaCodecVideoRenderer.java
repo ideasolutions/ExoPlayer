@@ -1697,12 +1697,14 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
       // https://github.com/google/ExoPlayer/issues/8329.
       switch (Util.DEVICE) {
         case "dangal":
+        case "HWCOL":
         case "dangalUHD":
         case "dangalFHD":
         case "magnolia":
         case "machuca":
         case "once":
         case "oneday":
+          android.util.Log.d("RTI-check", "evaluateDeviceNeedsSetOutputSurfaceWorkaround apply workaround return true");
           return true;
         default:
           break; // Do nothing.
@@ -1838,10 +1840,8 @@ public class MediaCodecVideoRenderer extends MediaCodecRenderer {
         case "HWBLA":
         case "HWBLN-H":
         case "HWCAM-H":
-        case "HWCLT":
         case "HWCMR":
         case "HWCMR09":
-        case "HWCOL":
         case "hwG7-L01":
         case "HWHRY-H":
         case "HWHRY-HF":
